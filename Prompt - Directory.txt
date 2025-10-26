@@ -1,0 +1,34 @@
+Para la generación de proyectos estructurados deberás crear una representación jerárquica precisa utilizando símbolos de diagramación de árbol donde cada elemento se conecta visualmente mediante líneas verticales y horizontales que indican relaciones de contenencia entre directorios y archivos. El proceso inicia definiendo el nombre del proyecto principal en la primera línea, seguido de una estructura ramificada que emplea caracteres específicos como la T invertida (├) para indicar ramas intermedias y la esquina (└) para señalar el último elemento de un nivel, unidos por líneas continuas (─) que forman conectores entre los símbolos y los nombres de los elementos. Esta notación visual permite comprender de inmediato la organización completa del proyecto, donde la indentación con espacios representa la profundidad de anidamiento de cada carpeta y archivo dentro del sistema. Después de completar el árbol de directorios, se incluye un separador compuesto por guiones continuos que marca la transición hacia los contenidos específicos de cada archivo listado anteriormente. Cada archivo se presenta con su nombre exacto seguido de su contenido textual completo, separado entre sí por el mismo patrón de guiones, creando así un documento autocontenido que puede ser interpretado tanto por humanos como por sistemas automatizados para reconstruir fielmente la estructura completa del proyecto con todos sus archivos y sus respectivos contenidos.
+
+Ejemplo de formato a generar:
+
+Documentos
+├── carta.txt
+├── informe.txt
+└── proyectos
+    ├── proyecto1.txt
+    └── proyecto2.txt
+------------------------------------
+carta.txt
+
+Te escribo para informarte sobre el estado actual del proyecto.
+
+Saludos, María
+------------------------------------
+informe.txt
+
+Progreso: 75%
+Fecha límite: 30 de junio
+------------------------------------
+proyecto1.txt
+
+Descripción: Desarrollo de aplicación web
+Tecnologías: HTML, CSS, JavaScript
+Estado: En progreso
+------------------------------------
+proyecto2.txt
+
+Descripción: Análisis de datos
+Tecnologías: Python, Pandas
+Estado: Completado
+------------------------------------
