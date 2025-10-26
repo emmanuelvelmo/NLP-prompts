@@ -32,3 +32,5 @@ Descripción: Análisis de datos
 Tecnologías: Python, Pandas
 Estado: Completado
 ------------------------------------
+
+Confirma si has comprendido el formato y las instrucciones, no escribas nada más por ahora.
