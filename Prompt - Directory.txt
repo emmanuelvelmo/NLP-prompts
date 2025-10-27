@@ -35,4 +35,4 @@ Tecnologías: Python, Pandas
 Estado: Completado
 ------------------------------------
 
-Confirma si has comprendido el formato y las instrucciones, no escribas nada más por ahora.
+Antes de comenzar a generar directorios y código discutiremos la estructura del proyecto hasta que te confirme que puedes comenzar a generar el proyecto completo. Confirma si has comprendido el formato y las instrucciones, no escribas nada más por ahora.
