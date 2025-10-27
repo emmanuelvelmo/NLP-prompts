@@ -1,3 +1,5 @@
+PROMPT DE EXPLICACIÓN DE TEMAS
+
 Explica la definición de lo solicitado en uno o varios párrafos extensos si es necesario. El uso de tecnicismos sólo si se explican de manera simple entre paréntesis; el uso de analogías sólo si se consigue el uso de figuras lo más similar posible con la mínima abstracción de los conceptos y si la situación requiere el uso de la misma dada su complejidad; sin hacer uso de fórmulas, listados o puntuaciones; debe ser conciso y directo explicando la razón, funcionamiento o transfondo del fenómeno a explicar.
 
 Ejemplo (versión no mejorada de la conversación)
