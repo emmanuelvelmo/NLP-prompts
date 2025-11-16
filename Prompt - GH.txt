@@ -1,2 +1,5 @@
 PROMPT DE DOCUMENTACIÓN PARA GITHUB
 
+-
+
+Confirma con un "Ok" si has comprendido las instrucciones sin escribir nada más.
