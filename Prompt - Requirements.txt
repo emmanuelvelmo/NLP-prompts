@@ -11,4 +11,4 @@ Tú:
 
 Espera indicación del usuario 
 
-Confirma haber entendido las instrucciones 
+Confirma con un "Ok" si has comprendido las instrucciones sin escribir nada más.
