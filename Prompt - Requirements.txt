@@ -1,0 +1,14 @@
+PROMPT PARA EXPLICAR FUNCIONAMIENTO A DETALLE DE UN PROYECTO
+
+Sin escribir código hasta indicarlo, vamos a comenzar planteando 
+
+Ház una lista de 
+
+Ejemplo
+Yo: Una aplicaión chat 
+
+Tú: 
+
+Espera indicación del usuario 
+
+Confirma haber entendido las instrucciones 
