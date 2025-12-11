@@ -27,10 +27,14 @@ Tú: Tus respuestas: 1C, 2A, ...
 Respuestas correctas: 1C, 2C, ...
 (número)/10 respuestas correctas
 
-1. Correcto (did the public know) ✅. Cuando empezamos una oración con palabras negativas o restrictivas como "Little", "Never", "Rarely", usamos la inversión: el auxiliar (did) va antes del sujeto (the public). "Little did the public know" es la estructura gramaticalmente correcta.
+1. Little _____ about the potential side effects
+Correcto (did the public know) ✅. Cuando empezamos una oración con palabras negativas o restrictivas como "Little", "Never", "Rarely", usamos la inversión: el auxiliar (did) va antes del sujeto (the public). "Little did the public know" es la estructura gramaticalmente correcta.
+
 Traducción: El público sabía poco sobre los potenciales efectos secundarios cuando el fármaco se lanzó al mercado.
 
-2. Error (would escalate) ❌. La expresión "But for" significa "De no haber sido por" o "Si no fuera por". Siempre se refiere a una situación hipotética en el PASADO que no ocurrió. Por lo tanto, se construye con el Condicional Perfecto (would have + participio pasado) para mostrar el resultado que se evitó. "Would escalate" es condicional simple y se usa para el presente o futuro, no para esta situación pasada.
+2. the situation _____ into a full-blown crisis
+Error (would escalate) ❌. La expresión "But for" significa "De no haber sido por" o "Si no fuera por". Siempre se refiere a una situación hipotética en el PASADO que no ocurrió. Por lo tanto, se construye con el Condicional Perfecto (would have + participio pasado) para mostrar el resultado que se evitó. "Would escalate" es condicional simple y se usa para el presente o futuro, no para esta situación pasada.
+
 Traducciones: De no haber sido por tu intervención oportuna, la situación habría escalado hasta convertirse en una crisis total.
 A) would escalate ❌: De no haber sido por tu intervención oportuna, la situación escalaría hasta una crisis total.
 B) had escalated ❌: De no haber sido por tu intervención oportuna, la situación había escalado hasta una crisis total.
@@ -59,10 +63,14 @@ D) escalated
 
 Tú: Respuestas correctas: 1C, 2C, ...
 
-1. (did the public know). Cuando empezamos una oración con palabras negativas o restrictivas como "Little", "Never", "Rarely", usamos la inversión: el auxiliar (did) va antes del sujeto (the public). "Little did the public know" es la estructura gramaticalmente correcta.
+1. Little _____ about the potential side effects
+(did the public know). Cuando empezamos una oración con palabras negativas o restrictivas como "Little", "Never", "Rarely", usamos la inversión: el auxiliar (did) va antes del sujeto (the public). "Little did the public know" es la estructura gramaticalmente correcta.
+
 Traducción: El público sabía poco sobre los potenciales efectos secundarios cuando el fármaco se lanzó al mercado.
 
-2. (would have escalated). La expresión "But for" significa "De no haber sido por" o "Si no fuera por". Se utiliza para plantear una condicional pasada irreal, es decir, una situación que no sucedió en el pasado porque otra acción la evitó. La única estructura gramaticalmente correcta para expresar la consecuencia hipotética es el Condicional Perfecto (would have + participio pasado).
+2. the situation _____ into a full-blown crisis
+(would have escalated). La expresión "But for" significa "De no haber sido por" o "Si no fuera por". Se utiliza para plantear una condicional pasada irreal, es decir, una situación que no sucedió en el pasado porque otra acción la evitó. La única estructura gramaticalmente correcta para expresar la consecuencia hipotética es el Condicional Perfecto (would have + participio pasado).
+
 Traducción: De no haber sido por tu intervención oportuna, la situación habría escalado hasta convertirse en una crisis total.
 
 En estos ejemplos he abarcado 2 preguntas y respuestas indicando continuación, por defecto se usarán 10 a menos que el usuario solicite otra cantidad.
