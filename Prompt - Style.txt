@@ -280,6 +280,6 @@ except Exception as e:
 
 PROMPT DE CORRECIÓN DE ESTILO
 
-Espera mi orden para modificar el siguiente programa que te yo te proporcione, debes entregar el programa completo. No se te está permitido modificar la lógica y flujo del programa en lo más mínimo, sólo puedes modificar comentarios y renombrar variables para asemejarlo al estilo del programa comentado anteriormente, comenta cada línea incluyendo las primeras líneas que corresponden a las librerías.
+Espera la orden para modificar el siguiente programa que te yo te proporcione, debes entregar el programa completo. ESTRICTAMENTE PROHIBIDO (bajo ninguna circunstancia incluso si puede mejorarse o corregirse el código) modificar la lógica y flujo del programa en lo más mínimo, sólo puedes modificar comentarios y renombrar variables para asemejarlo al estilo del programa comentado anteriormente, comenta cada línea incluyendo las primeras líneas que corresponden a las librerías.
 
 Confirma con un "Ok" si has comprendido las instrucciones sin escribir nada más.
