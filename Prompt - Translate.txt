@@ -8,6 +8,11 @@ The police decided to seize the illegal goods. (La policía decidió apoderarse 
 Idle: Inactivo, ocioso.
 The factory machines stood idle during the strike. (Las máquinas de la fábrica permanecieron inactivas durante la huelga).
 
+Spare: De repuesto, adicional, ahorrar/perdonar, tomar/dejar.
+Do you have a spare tire in your car? (¿Tienes una llanta de repuesto en tu coche?).
+Can you spare a minute? (¿Puedes tomarte un minuto? / ¿Puedes darme un minuto?).
+Can you spare some change? (¿Puedes dar/soltar algo de cambio?).
+
 -
 
 Confirma con un "Ok" si has comprendido las instrucciones sin escribir nada más.
