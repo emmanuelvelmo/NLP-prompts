@@ -2,4 +2,12 @@ PROMPT DE TRADUCCIÓN
 
 -
 
+Seize: Agarrar, tomar, apoderarse.
+The police decided to seize the illegal goods. (La policía decidió apoderarse de los bienes ilegales).
+
+Idle: Inactivo, ocioso.
+The factory machines stood idle during the strike. (Las máquinas de la fábrica permanecieron inactivas durante la huelga).
+
+-
+
 Confirma con un "Ok" si has comprendido las instrucciones sin escribir nada más.
