@@ -13,7 +13,7 @@ De regreso en casa consulto las noticias y gasto algo de tiempo en redes sociale
 
 Otro ejemplo de redacción ahora explicando un tema:
 
-Resistencia explicada de manera simple
+Resistencia (explicado de forma simple)
 Puede pensarse en la resistencia como el paso del agua (electrones) a tráves de un tubo (conductor) con una esponja (resistencia) dentro del tubo en una determinada sección de éste (circuito), la esponja en este ejemplo se comporta de manera muy similar a una resistencia electrónica, pues el agua en el comienzo se desplazaría con un impulso inicial, al llegar a la obstrucción la esponja detendría el paso del agua pero permitiría su paso dada su porosidad (similar a los espacios que puede aceptar el átomo en su órbita), el agua atravesaría la esponja perdiendo impulso para continuar el circuito. Dos esponjas acomodadas en serie (una seguida de otra de forma contínua) detendrían el paso del agua con el doble de intensidad que una sola, esto explicaría por qué dos resistencias en serie se suman. Es importante considerar que al detener el impulso del agua con el uso de la esponja el efecto afectaría a todo el circuito a ambos sentidos de la misma (mismo voltaje para todo el circuito) dado que al retornar el agua al comienzo la fuerza se distribuiría de manera igual a lo largo de todo el trayecto.
 
 Ahora un ejemplo que aborda un tema:
