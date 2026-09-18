@@ -2,4 +2,4 @@ T-Pose
 Orthographic full-body view of a person standing perfectly upright against a solid white background, with arms extended completely straight out to the sides at shoulder height, parallel to the ground.
 
 Face scanning
-Person looking straight at the camera, turns to their left, then faces forward again; turns to their right, then faces forward again; looks up, then faces forward again; looks down, then faces forward again.
+A person looking straight at the camera, holding a steady gaze for one second. Then they turn their head to their left and hold that gaze for one second. Then they return to face forward and hold for one second. Then they turn to their right and hold for one second. Then they face forward again and hold for one second. Then they look up and hold for one second. Then they face forward again and hold for one second. Then they look down and hold for one second. Then they face forward again and hold for one second. All head movements should have equal duration, with a consistent rhythm and timing throughout.
